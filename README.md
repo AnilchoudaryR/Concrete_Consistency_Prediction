@@ -1,0 +1,2 @@
+# Concrete_consistency_prediction
+The task is based on measurement data from one concrete mixer. The concrete mixer is equipped with sensors which measure oil pressure of the hydraulic drum engine, drum rotation speed &amp; concrete weight. The concrete consistency is measured once at the mixing plant site outside of the mixing drum by a defined measurement procedure. Following same procedure each time is time consuming. So machine learning is used to predict the concrete consistency which helps in both saving money and time.
